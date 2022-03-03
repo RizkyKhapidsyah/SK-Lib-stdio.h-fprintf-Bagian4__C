@@ -1,0 +1,11 @@
+Characters: b B 
+Decimals: 200 300 
+More Decimals: 20000 30000 
+Octals: 144 0144 
+Hexadecimals: 64 0x64 64 0X64 
+Strings: Hello 
+Scientific notation: 1.234500e+02 1.234500E+02 
+Floats:  3 3.14 3.1416 
+Positive signed number = +3.14 
+Padded number = 00089 
+Number with Width =    89 
